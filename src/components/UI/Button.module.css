@@ -1,0 +1,10 @@
+.button {
+  margin-left: 20px;
+  height: 70px;
+  cursor: pointer;
+  background-color: beige;
+  font-size: 2.5rem;
+}
+.button:hover {
+  background-color: rgb(240, 240, 155);
+}
